@@ -27,7 +27,7 @@ After running the app Jupyter Lab, ensure the database is up to date with the mo
 >./Resources/etf.db
 
 ## Example
-[example of printout from voila](./image.png)
+![example of printout from voila](./image.png)
 The above image shows an example of what it looks like when deployed to the local computer using the following code in terminal/ git bash:
 ``voila etf_analyzer.ipynb`` 
 
